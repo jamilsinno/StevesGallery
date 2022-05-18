@@ -3,7 +3,7 @@ A display of Steve Johnson's work from Pexel.
 
 **Link to project:** #
 
-![Photo of the website Steves Gallery](https://imgur.com/rTtjeLD)
+![Photo of the website Steves Gallery](/images/StevesGallery)
 
 ## How It's Made:
 
